@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+}
+table{
+    border-collapse: collapse;
+    margin: auto;
+    width: 500px;
+    text-align: ;
+    margin-top: 50px;
+}
+.tipo{
+    color: black;
+}
+.tp{
+    background-color:rgb(230, 226, 226);
+}
+.tp, th{
+    color:gray;
+}
+.cabeçalho{
+    color:#fff;
+    background-color:#087f5b;
+}
+tr, th{
+    text-align: left;
+    padding: 8px;
+}
